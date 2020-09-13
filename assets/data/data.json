@@ -1,0 +1,94 @@
+{
+  "download_link": "",
+  "section_1": {
+    "title": "Brij Concept",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex vitae doloribus laboriosam, in molestias facere, repellat eveniet nihil rem exercitationem!"
+  },
+  "section_2": {
+    "title": "Our Idea",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
+    "data": [
+      {
+        "title": "Our Idea",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
+        "image": "assets/resources/images/illus1.jpg"
+      },
+      {
+        "title": "Our Idea",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
+        "image": "assets/resources/images/illus3.jpg"
+      },
+      {
+        "title": "Our Idea",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
+        "image": "assets/resources/images/illus4.jpg"
+      },
+      {
+        "title": "Our Idea",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
+        "image": "assets/resources/images/illus5.jpg"
+      }
+    ]
+  },
+  "section_3": {
+    "title": "Our Team",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
+    "team": [
+      {
+        "name": "Amir Shaikh",
+        "profile_image": "assets/resources/images/profile_user.jpg",
+        "location": "Navi Mumbai, India",
+        "role": "Developer",
+        "twitter": "",
+        "facebook": "",
+        "linked_in": "",
+        "instagram": "",
+        "email": ""
+      },
+      {
+        "name": "Amir Shaikh",
+        "profile_image": "assets/resources/images/profile_user.jpg",
+        "location": "Navi Mumbai, India",
+        "role": "Developer",
+        "twitter": "",
+        "facebook": "",
+        "linked_in": "",
+        "instagram": "",
+        "email": ""
+      },
+      {
+        "name": "Amir Shaikh",
+        "profile_image": "assets/resources/images/profile_user.jpg",
+        "location": "Navi Mumbai, India",
+        "role": "Developer",
+        "twitter": "",
+        "facebook": "",
+        "linked_in": "",
+        "instagram": "",
+        "email": ""
+      },
+      {
+        "name": "Amir Shaikh",
+        "profile_image": "assets/resources/images/profile_user.jpg",
+        "location": "Navi Mumbai, India",
+        "role": "Developer",
+        "twitter": "",
+        "facebook": "",
+        "linked_in": "",
+        "instagram": "",
+        "email": ""
+      }
+    ]
+  },
+  "section_4": {
+    "title": "How To Download",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
+    "download_image": "assets/resources/images/downloadApp.png"
+  },
+  "section_5": {
+    "location_name": "Kharghar Navi Mumbai",
+    "location_URL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60335.6207405649!2d73.02459319033477!3d19.064779770179893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c21a53e30b83%3A0xa766b29f687709d7!2sKharghar%2C%20Navi%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1599762459942!5m2!1sen!2sin",
+    "contact_no": "+91- 90000000",
+    "email": "amirhshaikh@gmail.com"
+  }
+}
