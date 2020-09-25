@@ -90,5 +90,18 @@
     "location_URL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60335.6207405649!2d73.02459319033477!3d19.064779770179893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c21a53e30b83%3A0xa766b29f687709d7!2sKharghar%2C%20Navi%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1599762459942!5m2!1sen!2sin",
     "contact_no": "+91- 90000000",
     "email": "amirhshaikh@gmail.com"
-  }
+  },
+  "interactionImages": [
+    "assets/resources/images/illus5.jpg",
+    "assets/resources/images/illus6.jpg",
+    "assets/resources/images/illus7.jpg",
+    "assets/resources/images/illus8.jpg",
+    "assets/resources/images/illus9.jpg",
+    "assets/resources/images/illus10.jpg",
+    "assets/resources/images/illus11.jpg",
+    "assets/resources/images/illus12.jpg",
+    "assets/resources/images/illus13.jpg",
+    "assets/resources/images/illus14.jpg",
+    "assets/resources/images/illus15.jpg"
+  ]
 }
