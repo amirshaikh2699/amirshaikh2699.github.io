@@ -1,91 +1,102 @@
 {
   "download_link": "",
   "section_1": {
-    "title": "Brij Concept",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex vitae doloribus laboriosam, in molestias facere, repellat eveniet nihil rem exercitationem!"
+    "titleUpper": "Brij",
+    "titleLower": "Concept",
+    "description": "Brij Concept is one of the leading ordering and delivering Q-Commerce (the next generation, e-commerce) service providers in India, bringing small quantities of goods to customers almost instantly wherever and whenever they need them, within the borders of the selected city. We aim to process millions of orders per day in the coming years. The commerce can occur as business to business  (B2B), business to consumer (B2C), consumer to consumer or consumer to business."
   },
   "section_2": {
     "title": "Our Idea",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
-    "data": [
-      {
-        "title": "Our Idea",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
-        "image": "assets/resources/images/illus1.jpg"
-      },
-      {
-        "title": "Our Idea",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
-        "image": "assets/resources/images/illus3.jpg"
-      },
-      {
-        "title": "Our Idea",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
-        "image": "assets/resources/images/illus4.jpg"
-      },
-      {
-        "title": "Our Idea",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
-        "image": "assets/resources/images/illus5.jpg"
-      }
+    "description": [
+      "From Daily necessities to household good, pastries to sweets, pharmaceutical to groceries, from something as small as a cumin seed to something as large as a good of 5kg with volume less than or equal to 5 cu ft. ",
+      "At Brij Concept we care and our work ethics, agile riders, customer support, operations, infrastructure and easy to go technology enable our customers to commerce with us at lowest costs. ",
+      "We have made it as our duty to make your life tranquil, unexacting and simpler by delivering rapidly, easy and at your doorstep."
     ]
   },
   "section_3": {
-    "title": "Our Team",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
-    "team": [
+    "title": "Our Services",
+    "description": [
       {
-        "name": "Amir Shaikh",
-        "profile_image": "assets/resources/images/profile_user.jpg",
-        "location": "Navi Mumbai, India",
-        "role": "Developer",
-        "twitter": "",
-        "facebook": "",
-        "linked_in": "",
-        "instagram": "",
-        "email": ""
+        "title": "Basic: ",
+        "description": "In Basic we offer a platform which enables our customers to schedule the pickups in the given time slots while offering them flexibility through delivery time choices and uncomplicated payment options."
       },
       {
-        "name": "Amir Shaikh",
-        "profile_image": "assets/resources/images/profile_user.jpg",
-        "location": "Navi Mumbai, India",
-        "role": "Developer",
-        "twitter": "",
-        "facebook": "",
-        "linked_in": "",
-        "instagram": "",
-        "email": ""
+        "title": "Express: ",
+        "description": "In Basic we offer a platform which enables our customers to schedule the pickups in the given time slots while offering them flexibility through delivery time choices and uncomplicated payment options."
       },
       {
-        "name": "Amir Shaikh",
-        "profile_image": "assets/resources/images/profile_user.jpg",
-        "location": "Navi Mumbai, India",
-        "role": "Developer",
-        "twitter": "",
-        "facebook": "",
-        "linked_in": "",
-        "instagram": "",
-        "email": ""
-      },
-      {
-        "name": "Amir Shaikh",
-        "profile_image": "assets/resources/images/profile_user.jpg",
-        "location": "Navi Mumbai, India",
-        "role": "Developer",
-        "twitter": "",
-        "facebook": "",
-        "linked_in": "",
-        "instagram": "",
-        "email": ""
+        "title": "Gifts @ 12 in the midnight: ",
+        "description": "Everyone cherishes the surprise birthday gifts and midnight celebrations. So, surprise your loved ones with our gifts @ 12 in the midnight service and enjoy the ritual of gifting your loved ones on special occasions, without stepping out of your comfort zones at minimal cost."
       }
     ]
   },
   "section_4": {
+    "title": "Why choose us?",
+    "description": "",
+    "data": [
+      {
+        "title": "Integrity",
+        "description": "The organisation upholds the integrity of the highest order while being honest and possessing stong moral principles in providing services to the customers.",
+        "image": "assets/resources/images/illus1.jpg"
+      },
+      {
+        "title": "No minimum Order",
+        "description": "There's no bar set for minimum order. We will be at your doorstep with the same probity and passion receiving and delivering even a grain of wheat.",
+        "image": "assets/resources/images/illus3.jpg"
+      },
+      {
+        "title": "Convenience",
+        "description": "With the best in class, easily accessible technology and cash in hand service available, we try to make our customer's life fulfilling and satisfactory with our services.",
+        "image": "assets/resources/images/illus4.jpg"
+      },
+      {
+        "title": "Safety comes First",
+        "description": "We recognise the faith you put in us amidst Covid-19 outbreak. That's why we want to let you know we are taking every possible measure to keep you and our team members protected. ",
+        "image": "assets/resources/images/illus1.jpg"
+      },
+      {
+        "title": "Commitment",
+        "description": "We are completely fanatical about receiving and delivering on our commitments.",
+        "image": "assets/resources/images/illus2.jpg"
+      }
+    ]
+  },
+  "section_5": {
     "title": "How To Download",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam quibusdam eaque quae dolorum cum vel maiores optio sunt ex",
     "download_image": "assets/resources/images/downloadApp.png"
   },
-  "section_5": {
+  "section_6": {
+    "title": "Our Team",
+    "description": "",
+    "team": [
+      {
+        "name": "Vipul Srivastava",
+        "profile_image": "assets/resources/images/profile_user.jpg",
+        "location": "Navi Mumbai, India",
+        "description": "We at Brij Concept  thrive to make our customers lives easier and comfortable with an affective value proposition and management system. We aim and commit to uphold the integrity of the highest order while fulfilling the needs of our customers.",
+        "role": "Founder",
+        "twitter": "",
+        "facebook": "",
+        "linked_in": "",
+        "instagram": "",
+        "email": ""
+      },
+      {
+        "name": "Amir Shaikh",
+        "profile_image": "assets/resources/images/profile_user.jpg",
+        "location": "Navi Mumbai, India",
+        "description":"At the tender age of 17, Samarth is on the forefront of innovation, pushing the limits, developing the best in class technology and aims to provide a platform to millions through Brij Concept, making it a pre-eminent quick commerce service providers in India.",
+        "role": "CTO",
+        "twitter": "",
+        "facebook": "",
+        "linked_in": "",
+        "instagram": "",
+        "email": ""
+      }
+    ]
+  },
+  "footer_data": {
     "location_name": "Kharghar Navi Mumbai",
     "location_URL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60335.6207405649!2d73.02459319033477!3d19.064779770179893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c21a53e30b83%3A0xa766b29f687709d7!2sKharghar%2C%20Navi%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1599762459942!5m2!1sen!2sin",
     "contact_no": "+91- 90000000",
